@@ -12,5 +12,3 @@ Along with embedded development I do other stuff like:
 ![Static Badge](https://img.shields.io/badge/HTML5-language?style=flat-square&logo=html5&logoColor=white&color=orange)
 ![Static Badge](https://img.shields.io/badge/Typescript-language?style=flat-square&logo=typescript&logoColor=yellow&color=black)
 ![Static Badge](https://img.shields.io/badge/ReactJS-language?style=flat-square&logo=react&logoColor=black&color=cyan)
-
-![Metrics](/github-metrics.svg)
